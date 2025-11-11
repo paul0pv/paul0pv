@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Paulo Panduro**, a telecommunications engineer passionate about bridging the gap between network infrastructure and software solutions. I specialize in developing applications that support communication systems, IoT deployments, and network automation.
+I'm **Paulo Panduro**, a telecommunications engineer passionate about bridging the gap between network infrastructure and software solutions, with a cup of coffee by my side ☕.
 
 ## About Me
 
