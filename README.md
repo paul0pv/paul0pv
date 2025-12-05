@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Paulo Panduro**, a telecommunications engineer passionate about bridging the gap between network infrastructure and software solutions, with a cup of coffee by my side ☕.
+I'm **Paulo Panduro**, a telecommunications engineer passionate about bridging the gap between network infrastructure and software solutions.
 
 ## About Me
 
